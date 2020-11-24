@@ -1,2 +1,1 @@
-# web1
-web 1
+# My first web(생활코딩 따라하기+CSS)
