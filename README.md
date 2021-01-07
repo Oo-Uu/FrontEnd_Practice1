@@ -1,2 +1,2 @@
-# 따라하기
-## https://y-boyy.github.io/web1/index.html
+# html,css,javascript 기초 연습 
+## ##
